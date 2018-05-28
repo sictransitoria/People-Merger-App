@@ -1,4 +1,4 @@
-# People-Merger-App
+# People Merger  Web Application
 
 I don't know about you but creating a program that can read from one file and write to another sounds pretty cool! Depending on the task, it can also save you a lot of time.
 
